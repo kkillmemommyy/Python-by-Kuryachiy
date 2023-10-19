@@ -1,4 +1,4 @@
-from pykur.fun_compose import compose
+from pykur.funcs.fun_compose import compose
 from math import pow
 
 def test1():
