@@ -1,4 +1,4 @@
-from pykur.max_subsum import max_subsum
+from pykur.loops.max_subsum import max_subsum
 
 
 def test_positive1():
